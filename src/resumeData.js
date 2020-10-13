@@ -1,19 +1,19 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
-  "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
+  "name": "Devaraj",
+  "role": "Fullstack Developer",
+  "linkedinId":"https://www.linkedin.com/in/devaraj-chennur-23257450",
   "skypeid": "Your skypeid",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/devaraj-chennur-23257450",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"http://github.com/Devarajrc",
         "className":"fa fa-github"
       },
       {
@@ -22,43 +22,100 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
+  "aboutme":"I have finished my M.C.A. in Computer Science and have been working in industry for past few years.",
   "address":"India",
   "website":"https://www.codeclassifiers.com",
   "education":[
     {
-      "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
+      "UniversityName":"Karnatak University",
+      "specialization":"C specialization",
+      "MonthOfPassing":"Jun",
+      "YearOfPassing":"2015",
       "Achievements":"Some Achievements"
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
+      "UniversityName":"Gulbarga University",
+      "specialization":"C# specialization",
+      "MonthOfPassing":"Jun",
+      "YearOfPassing":"2012",
       "Achievements":"Some Achievements"
     }
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
+      "CompanyName":"CTS Company",
+      "specialization":"Java specialization",
       "MonthOfLeaving":"Jan",
       "YearOfLeaving":"2018",
       "Achievements":"Some Achievements"
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
+      "CompanyName":"UST global Company",
+      "specialization":"Java specialization",
+      "MonthOfLeaving":"May",
+      "YearOfLeaving":"2019",
       "Achievements":"Some Achievements"
     }
   ],
   "skillsDescription":"Your skills here",
   "skills":[
+    {
+      "skillname":"Java"
+    },
+    {
+      "skillname":"Spring"
+    },
+    {
+      "skillname":"Hibernate"
+    },
+    {
+      "skillname":"Spring-boot"
+    },
+    {
+      "skillname":"Spring-cloud"
+    },
+    {
+      "skillname":"Rabbitmq"
+    },
+    {
+      "skillname":"Kafka"
+    },
+    {
+      "skillname":"Cassandra"
+    },
+    {
+      "skillname":"Postman"
+    },
+    {
+      "skillname":"STS"
+    },
+    {
+      "skillname":"Typescript"
+    },
+    {
+      "skillname":"Jprofiler"
+    },
+    {
+      "skillname":"GCP"
+    },
+    {
+      "skillname":"React js"
+    },
+    {
+      "skillname":"Java script"
+    },
+    {
+      "skillname":"JQuery"
+    },
+    {
+      "skillname":"Bootstrap"
+    },
+    {
+      "skillname":"Angular 2"
+    },
+    {
+      "skillname":"SQL"
+    },
     {
       "skillname":"HTML5"
     },
@@ -71,18 +128,18 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
+      "name":"KNOVA",
+      "description":"Knowledge based information system",
       "imgurl":"images/portfolio/phone.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
+      "name":"Right notes",
+      "description":"credit system",
       "imgurl":"images/portfolio/project.jpg"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",
+      "name":"xfm",
+      "description":"fraud management system",
       "imgurl":"images/portfolio/project2.png"
     },
     {
